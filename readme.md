@@ -1,0 +1,2 @@
+# Minimal Set
+This is an extremely barebones implementation of Set. It's playable in your terminal. Note that the win condition is this version is slightly different. In this implementation, it's possible to not have any sets left.
